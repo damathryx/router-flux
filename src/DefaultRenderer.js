@@ -8,7 +8,6 @@
  */
 import React, {
   Component,
-  PropTypes,
 } from 'react';
 import {
   Animated,
@@ -16,6 +15,7 @@ import {
   StyleSheet,
   Dimensions,
 } from 'react-native';
+import PropTypes from 'prop-types'
 import NavigationExperimental from 'react-native-experimental-navigation';
 import PureRenderMixin from 'react-addons-pure-render-mixin';
 

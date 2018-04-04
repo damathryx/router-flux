@@ -1,5 +1,6 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
+import PropTypes from 'prop-types'
 import StaticContainer from 'react-static-container';
 
 const styles = StyleSheet.create({
